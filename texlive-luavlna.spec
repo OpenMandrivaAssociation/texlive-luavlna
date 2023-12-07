@@ -1,6 +1,6 @@
 Name:		texlive-luavlna
-Version:	64142
-Release:	2
+Version:	67442
+Release:	1
 Summary:	Prevent line breaks after single letter words, units, or academic titles
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luavlna
