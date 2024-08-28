@@ -1,5 +1,5 @@
 Name:		texlive-luavlna
-Version:	67442
+Version:	71156
 Release:	1
 Summary:	Prevent line breaks after single letter words, units, or academic titles
 Group:		Publishing
