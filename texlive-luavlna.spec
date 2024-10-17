@@ -3,7 +3,7 @@ Version:	71156
 Release:	1
 Summary:	Prevent line breaks after single letter words, units, or academic titles
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luavlna
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/luavlna
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luavlna.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/luavlna.doc.r%{version}.tar.xz
